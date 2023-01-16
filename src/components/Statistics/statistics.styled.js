@@ -11,7 +11,7 @@ export const StatisticsSection = styled.section`
 export const StatisticsTitle = styled.h2`
   padding: 40px;
   color: #696969;
-  background-color: #000000;
+  background-color: #ffffff;
   text-align: center;
   text-transform: uppercase;
 `;
@@ -28,7 +28,7 @@ export const StatItem = styled.li`
   justify-content: center;
   min-width: 40px;
   padding: 20px;
-  color: #000000;
+  color: black;
   &: first-child {
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
